@@ -7,7 +7,7 @@ Adapted from Yinhao Zhu (yzhu10@nd.edu), Shaoxing Mo (smo@smail.nju.edu.cn)
 
 Aug 15, 2019
 
-Copyright by Cong Xiao (C.Xiao@tudelft.nl)
+modified by Cong Xiao (C.Xiao@tudelft.nl)
 
 """
 
