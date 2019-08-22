@@ -9,6 +9,10 @@ Dependencies:
   matplotlib
   seaborn
 
+Data link:
+
+  You can download the data from : https://drive.google.com/drive/folders/1VkYtS2oe-vwapUjwIG_0GdFzR_RMw2xW?usp=sharing.
+
 Run:
   python train_time.py
 
